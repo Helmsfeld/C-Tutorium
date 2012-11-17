@@ -137,3 +137,11 @@ Mooshak
 Löse alte und aktuelle Übungsaufgaben und reiche sie in Mooshak ein.
 
 
+Tipps, Tricks und Workarounds
+=============================
+
+* Wenn eclipse "kaputt" ist, kann man den Werkszustand wiefolgt wieder herstellen:
+  1. Öffne eine shell
+  2. gib "cleanup" ein.
+  3. Lösche alle eclipse-relevanten Einstellungen: "rm -rf .eclipse" (Punkt-Eclipse)"
+  4. Benutze einen neuen Workspace
